@@ -18,8 +18,6 @@ My professional production work has primarily been in private enterprise environ
 
 ## Featured projects
 
-> 🔒 These repositories are **private** while I finish enhancing them. To review the code, [message me on LinkedIn](https://www.linkedin.com/in/ahmedoraby/) and I'll grant read access.
-
 ### Dairy Farm Management Platform 🔒
 
 _Private repository · access on request_
