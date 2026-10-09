@@ -16,22 +16,36 @@ My professional production work has primarily been in private enterprise environ
 - Reliability, observability, and engineering systems
 - High-performing engineering organizations
 
-## Featured project
+## Featured projects
 
-### Elbayoumy Farm Nutrition Platform
+### [Dairy Farm Management Platform](https://github.com/ahmedadeloraby/dairy-farm-management-platform)
 
-A public-safe portfolio implementation based on a real-world farm nutrition and feeding discovery exercise.
+A multi-tenant SaaS foundation for dairy farm operations: feed management first, then inventory, herd integration and reporting.
 
-The project demonstrates how I approach:
+It shows how I approach:
 
-- As-Is process analysis
-- Domain modeling
-- Configurable business rules
-- Integration boundaries
+- As-Is process analysis before To-Be design
+- Domain modeling and configurable, versioned business rules
+- Multi-tenancy and tenant isolation (see the ADRs)
+- Clear integration boundaries with herd, milk-recording and finance systems
 - Incremental modernization of spreadsheet-driven operations
-- Traceability from business process to software design
-- Testable domain logic
+- Traceable, testable domain logic
 
-See the repository: `elbayoumy-farm-nutrition-platform`
+`Python` · `Domain-Driven Design` · `Multi-tenant SaaS` · `ADRs`
 
-> Note: The repository intentionally contains no client data, confidential documents, credentials, or proprietary source material.
+### [Campus Companion — School Management Platform](https://github.com/ahmedadeloraby/school-management-platform)
+
+A live school platform with student, teacher, parent and principal panels: homework, timetables, exams, grades, attendance, student progress and incident reports. It includes RFID card attendance on ESP32 readers.
+
+It shows:
+
+- Role-based access enforced on the server, with parents linked only to their own children
+- Live updates pushed to every open panel
+- A web app, a mobile app (Expo / React Native) and IoT devices sharing one API
+- A phased product roadmap toward assessments, AI-assisted marking and learning analytics
+
+`TypeScript` · `Node.js` · `React Native` · `SQLite / Turso` · `ESP32`
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/ahmedoraby/)
