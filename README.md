@@ -18,7 +18,11 @@ My professional production work has primarily been in private enterprise environ
 
 ## Featured projects
 
-### [Dairy Farm Management Platform](https://github.com/ahmedoraby-eng/dairy-farm-management-platform)
+> 🔒 These repositories are **private** while I finish enhancing them. To review the code, [message me on LinkedIn](https://www.linkedin.com/in/ahmedoraby/) and I'll grant read access.
+
+### Dairy Farm Management Platform 🔒
+
+_Private repository · access on request_
 
 A multi-tenant SaaS foundation for dairy farm operations: feed management first, then inventory, herd integration and reporting.
 
@@ -33,7 +37,9 @@ It shows how I approach:
 
 `Python` · `Domain-Driven Design` · `Multi-tenant SaaS` · `ADRs`
 
-### [Campus Companion — School Management Platform](https://github.com/ahmedoraby-eng/school-management-platform)
+### Campus Companion — School Management Platform 🔒
+
+_Private repository · access on request_
 
 A live school platform with student, teacher, parent and principal panels: homework, timetables, exams, grades, attendance, student progress and incident reports. It includes RFID card attendance on ESP32 readers.
 
