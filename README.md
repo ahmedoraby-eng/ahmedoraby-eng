@@ -18,9 +18,7 @@ Most of my production work lives in private enterprise codebases, so this profil
 
 ## Featured projects
 
-### Engineering Playbook 🔒
-
-_Private repository · access on request_
+### [Engineering Playbook](https://github.com/ahmedoraby-eng/engineering-playbook)
 
 Shared engineering standards for running many teams across many codebases, with the automation that enforces them.
 
